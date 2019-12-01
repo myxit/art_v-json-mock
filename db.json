@@ -6,7 +6,7 @@
       "userName": "test01",
       "email": "test1@artvalueapp.com",
       "personType": 0,
-      "newsletter": "1"
+      "newsletter": true
     }
   ]
 }
