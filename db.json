@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "walletid": "0xfc5DCc80B39B1437B502D49b9B0FCE328E16777b",
+      "userName": "test01",
+      "email": "test1@artvalueapp.com",
+      "personType": 0,
+      "newsletter": "1"
+    }
+  ]
+}
