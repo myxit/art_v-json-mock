@@ -1,12 +1,30 @@
 {
-  "users": [
-    {
+  "latest": {
+    "users": [{
       "id": 1,
-      "walletid": "0xfc5DCc80B39B1437B502D49b9B0FCE328E16777b",
+      "walletId": "0xfc5DCc80B39B1437B502D49b9B0FCE328E16777b",
       "userName": "test01",
       "email": "test1@artvalueapp.com",
       "personType": 0,
       "newsletter": true
-    }
-  ]
+    }],
+    "auctions": [{
+      "id": 100,
+      "valueId": 1,
+      "createdAt": "2019-12-01 00:00:00",
+      "updatedAt": "2019-12-01 00:00:00",
+      "startedAt": null,
+      "finishedAt": null,
+      "isDisabled": false
+    }],
+    "values": [{
+      "id": 1,
+      "value": 777,
+      "price": 5.123,
+      "createdAt": "2019-12-11 22:38:38",
+      "purchasedAt": "2019-12-11 22:38:38",
+      "ownerId": 1,
+      "isAvailable": true
+    }]
+  }
 }
