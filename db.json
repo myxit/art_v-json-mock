@@ -7,6 +7,16 @@
       "personType": 0,
       "newsletter": true
     }],
+     
+     "aaa": [{
+       "id": 1,
+       "value": 777,
+       "price": 5.123,
+       "createdAt": "2019-12-11 22:38:38",
+       "purchasedAt": "2019-12-11 22:38:38",
+       "ownerId": 1,
+       "isAvailable": true
+     }],
      "auctions": [{
        "id": 100,
        "valueId": 1,
@@ -16,13 +26,4 @@
        "finishedAt": null,
        "isDisabled": false
      }],
-     "aaa": [{
-       "id": 1,
-       "value": 777,
-       "price": 5.123,
-       "createdAt": "2019-12-11 22:38:38",
-       "purchasedAt": "2019-12-11 22:38:38",
-       "ownerId": 1,
-       "isAvailable": true
-     }]
 }
