@@ -16,5 +16,14 @@
        "startedAt": null,
        "finishedAt": null,
        "isDisabled": false
-     }]
+     }],
+      "values": [{
+        "id": 1000,
+        "value": 777,
+        "price": 5.123,
+        "createdAt": "2019-12-11 22:38:38",
+        "purchasedAt": "2019-12-11 22:38:38",
+        "ownerId": 1,
+        "isAvailable": true
+      }]
 }
