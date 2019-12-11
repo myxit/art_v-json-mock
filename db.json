@@ -10,7 +10,7 @@
     
      "auctions": [{
        "id": 100,
-       "valueId": 1,
+       "valueId": 1000,
        "createdAt": "2019-12-01 00:00:00",
        "updatedAt": "2019-12-01 00:00:00",
        "startedAt": null,
@@ -23,7 +23,7 @@
         "price": 5.123,
         "createdAt": "2019-12-11 22:38:38",
         "purchasedAt": "2019-12-11 22:38:38",
-        "ownerId": 1,
+        "userId": 1,
         "isAvailable": true
       }]
 }
