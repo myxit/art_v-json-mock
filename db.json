@@ -1,5 +1,4 @@
 {
-  "latest": {
     "users": [{
       "id": 1,
       "walletId": "0xfc5DCc80B39B1437B502D49b9B0FCE328E16777b",
@@ -26,5 +25,4 @@
       "ownerId": 1,
       "isAvailable": true
     }]
-  }
 }
