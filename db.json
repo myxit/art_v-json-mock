@@ -10,11 +10,27 @@
     
      "auctions": [{
        "id": 100,
-       "valueId": 1000,
+       "value": "1000",
        "createdAt": "2019-12-01 00:00:00",
        "updatedAt": "2019-12-01 00:00:00",
        "startedAt": null,
        "finishedAt": null,
+       "isDisabled": false
+     }, {
+       "id": 101,
+       "value": "1001",
+       "createdAt": "2019-12-01 00:00:00",
+       "updatedAt": "2019-12-01 00:00:00",
+       "startedAt": "2019-12-01 00:00:00",
+       "finishedAt": null,
+       "isDisabled": false
+     }, {
+       "id": 102,
+       "value": "1002",
+       "createdAt": "2019-12-01 00:00:00",
+       "updatedAt": "2019-12-01 00:00:00",
+       "startedAt": "2019-12-01 00:00:00",
+       "finishedAt": "2019-12-02 00:00:00",
        "isDisabled": false
      }],
       "values": [{
