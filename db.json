@@ -15,7 +15,7 @@
        "updatedAt": "2019-12-01 00:00:00",
        "startedAt": null,
        "finishedAt": null,
-       "isDisabled": false
+       "isEnabled": true
      }, {
        "id": 101,
        "value": "1001",
@@ -23,7 +23,7 @@
        "updatedAt": "2019-12-01 00:00:00",
        "startedAt": "2019-12-01 00:00:00",
        "finishedAt": null,
-       "isDisabled": false
+       "isEnabled": true
      }, {
        "id": 102,
        "value": "1002",
@@ -31,7 +31,7 @@
        "updatedAt": "2019-12-01 00:00:00",
        "startedAt": "2019-12-01 00:00:00",
        "finishedAt": "2019-12-02 00:00:00",
-       "isDisabled": false
+       "isEnabled": true
      }],
       "values": [{
         "id": 1000,
