@@ -1,45 +1,46 @@
 {
-    "users": [{
-      "id": 1,
-      "walletId": "0xfc5DCc80B39B1437B502D49b9B0FCE328E16777b",
-      "userName": "test01",
-      "email": "test1@artvalueapp.com",
-      "personType": 0,
-      "newsletter": true
-    }],
-    
-     "auctions": [{
-       "id": 100,
-       "value": "1000",
-       "createdAt": "2019-12-01 00:00:00",
-       "updatedAt": "2019-12-01 00:00:00",
-       "startedAt": null,
-       "finishedAt": null,
-       "isEnabled": true
-     }, {
-       "id": 101,
-       "value": "1001",
-       "createdAt": "2019-12-01 00:00:00",
-       "updatedAt": "2019-12-01 00:00:00",
-       "startedAt": "2019-12-01 00:00:00",
-       "finishedAt": null,
-       "isEnabled": true
-     }, {
-       "id": 102,
-       "value": "1002",
-       "createdAt": "2019-12-01 00:00:00",
-       "updatedAt": "2019-12-01 00:00:00",
-       "startedAt": "2019-12-01 00:00:00",
-       "finishedAt": "2019-12-02 00:00:00",
-       "isEnabled": true
-     }],
-      "values": [{
-        "id": 1000,
-        "value": 777,
-        "price": 5.123,
-        "createdAt": "2019-12-11 22:38:38",
-        "purchasedAt": "2019-12-11 22:38:38",
-        "userId": 1,
-        "isAvailable": true
-      }]
+  "users": [{
+    "id": 1,
+    "walletId": "0xfc5DCc80B39B1437B502D49b9B0FCE328E16777b",
+    "userName": "test01",
+    "email": "test1@artvalueapp.com",
+    "personType": 0,
+    "newsletter": true
+  }],
+
+  "auctions": [{
+    "id": 100,
+    "value": "1000",
+    "createdAt": "2019-12-01 00:00:00",
+    "updatedAt": "2019-12-01 00:00:00",
+    "startedAt": null,
+    "finishedAt": null,
+    "isEnabled": true
+  }, {
+    "id": 101,
+    "value": "1001",
+    "createdAt": "2019-12-01 00:00:00",
+    "updatedAt": "2019-12-01 00:00:00",
+    "startedAt": "2019-12-01 00:00:00",
+    "finishedAt": null,
+    "isEnabled": true
+  }, {
+    "id": 102,
+    "value": "777",
+    "createdAt": "2019-12-01 00:00:00",
+    "updatedAt": "2019-12-01 00:00:00",
+    "startedAt": "2019-12-01 00:00:00",
+    "finishedAt": "2019-12-02 00:00:00",
+    "isEnabled": true
+  }],
+
+  "gallery-items": [{
+    "id": 1000,
+    "value": "777",
+    "description": "Lorem ipsum",
+    "price": 5.123,
+    "createdAt": "2019-12-11 22:38:38",
+    "updatedAt": "2019-12-11 22:38:38",
+    "isAvailable": true
+  }]
 }
