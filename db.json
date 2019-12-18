@@ -11,6 +11,7 @@
   "auctions": [{
     "id": 100,
     "value": "1000",
+    "description": "Lorem ipsum",
     "createdAt": "2019-12-01 00:00:00",
     "updatedAt": "2019-12-01 00:00:00",
     "startedAt": null,
@@ -19,6 +20,7 @@
   }, {
     "id": 101,
     "value": "1001",
+    "description": "Lorem ipsum",
     "createdAt": "2019-12-01 00:00:00",
     "updatedAt": "2019-12-01 00:00:00",
     "startedAt": "2019-12-01 00:00:00",
@@ -27,6 +29,7 @@
   }, {
     "id": 102,
     "value": "777",
+    "description": "Lorem ipsum",
     "createdAt": "2019-12-01 00:00:00",
     "updatedAt": "2019-12-01 00:00:00",
     "startedAt": "2019-12-01 00:00:00",
